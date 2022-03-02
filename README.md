@@ -9,5 +9,5 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=cjdomacena&count_private=true&show_icons=true&theme=dracula">
   </a>
   <a href="https://github.com/cjdomacena/github-readme-stats">
-    <img align="center" style="margin-left: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjdomacena&layout=compact"
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjdomacena"
   </a>
