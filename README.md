@@ -52,5 +52,5 @@
   
 ### 💻 Top Languages
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjdomacena&compact=true"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjdomacena&layout=compact"
   </p>
