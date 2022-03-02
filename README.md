@@ -1,7 +1,12 @@
-## Hi, I'm Christian Domacena 👋
+## Hey there! I'm Christian Domacena 👋
 
-### You can call me CJ!  
-![](https://komarev.com/ghpvc/?username=cjdomacena)
+- I'm a senior IT major at NJIT.
+- I love solving problems using current technologies!
+- I am passionate about web development!
+
+### Tools I code with
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+
 ### 🔥 Stats
 
   <p align="center">
