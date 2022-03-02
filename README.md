@@ -1,7 +1,10 @@
 ## Hi, I'm Christian Domacena 👋
 
-<p> Web developer </p>
+<p> I am a senior IT major at NJIT </p>
+<p> Enjoy you're stay! </p>
 
 ## Stats
 
 [![Cjdomacena's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjdomacena&count_private=true&show_icons=true&theme=dracula)](https://github.com/cjdomacena/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjdomacena&layout=compact)](https://github.com/cjdomacena/github-readme-stats)
