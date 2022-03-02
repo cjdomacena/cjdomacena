@@ -4,7 +4,7 @@
 <p> Enjoy you're stay! </p>
 
 ## Stats
-<div style="display:flex; justify-content: space-between;">
+<div style="display:flex; justify-content: space-between; align-items: center;">
   
   <a href="https://github.com/cjdomacena/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=cjdomacena&count_private=true&show_icons=true&theme=dracula">
