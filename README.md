@@ -5,9 +5,9 @@
 
 ## Stats
 
-  <a href="https://github.com/cjdomacena/github-readme-stats" align="center">
+  <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=cjdomacena&count_private=true&show_icons=true&theme=dracula">
-  </a>
+  </p>
   
 ## Top Languages
   <a href="https://github.com/cjdomacena/github-readme-stats" align="center">
