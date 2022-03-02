@@ -1,7 +1,5 @@
 ## Hi, I'm Christian Domacena 👋
 
-## About me
----
+## Stats
 
-- I am a senior IT major specializing in web applications at NJIT.
-- 
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cjdomacena&theme=algolia" alt="7oSkaaa" /></p>
