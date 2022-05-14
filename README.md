@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-- I'm a frontend developer
+- I'm a Software Developer
 - Currently a senior at NJIT pursuing a BS in IT specializing in web applications.
 - Fun fact: I ♥️🧋
 
