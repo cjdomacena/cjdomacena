@@ -35,10 +35,15 @@
 ### 🔥 Stats
 
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=cjdomacena&count_private=true&show_icons=true&theme=dracula">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cjdomacena&theme=vue">
   </p>
-  
-### 💻 Top Languages
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjdomacena&layout=compact"
-  </p>
+ <span>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cjdomacena&theme=vue">
+ </span>
+ <span>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cjdomacena&theme=vue">
+ </span>
+ </p>
+
+ 
