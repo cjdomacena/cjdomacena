@@ -1,8 +1,8 @@
-## Hey there! I'm Christian Domacena 👋
+## Hey there! 👋
 
-- I'm a senior IT major at NJIT.
-- I love solving problems using current technologies!
-- I am passionate about web development!
+- I'm a frontend developer
+- Currently a senior at NJIT pursuing a BS in IT specializing in web applications.
+- Fun fact: I ♥️🧋
 
 ### My Toolbox
 <p>
