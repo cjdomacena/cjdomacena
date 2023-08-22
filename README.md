@@ -1,9 +1,5 @@
 ## Hey there! 👋
 
-- I'm a Software Developer
-- Currently a senior at NJIT pursuing a BS in IT specializing in web applications.
-- Fun fact: I ♥️🧋
-
 ### My Toolbelt
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
